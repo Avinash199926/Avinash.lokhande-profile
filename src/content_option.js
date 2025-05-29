@@ -172,7 +172,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "",
+    YOUR_EMAIL: "avinash.lokhandebms@gmail.com",
     YOUR_FONE: "(+91)8928340225",
     description: "I’m a passionate Full Stack Developer and Data Scientist with a strong background in building scalable web and mobile applications. With hands-on experience in technologies like React, Node.js, Python, and Django, I thrive on solving real-world problems through code. Currently based in Berlin, I'm always eager to learn, collaborate, and innovate.",
     YOUR_SERVICE_ID: "service_id",
@@ -182,10 +182,11 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/avinashlokhandebms",
+    facebook: "https://www.facebook.com/avinash.lokhande.3194/",
+   // linkedin: "https://linkedin.com",
+   // twitter: "https://twitter.com",
+    instagram:"https://www.instagram.com/__itz__avinash__code_crushers_/"
 };
 
 export {
